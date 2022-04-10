@@ -7,6 +7,8 @@ if you change from pvp to ai during the play, the ai will start to move black pa
 but the board will not reset itself to default.
 The same applies to victory, there is no "board-reset" implemented, if you want to play again, you need to restart the application.
 
+All png are used for all 4 types of pawns
+
 This is 1st project of the Java_Coding_Ventures initiative, made by myself in order to pratice and improve my skills.
 
 If you want to use parts of this code, feel free to do this, its set on CC, but please respect the attribution part of the CC license.
